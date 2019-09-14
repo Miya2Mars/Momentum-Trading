@@ -5,7 +5,7 @@ from collections import namedtuple
 import datetime
 from dateutil.relativedelta import relativedelta
 import matplotlib.pyplot as plt
-from global import *
+from global_var import *
 from func import *
 
 ## plot returns

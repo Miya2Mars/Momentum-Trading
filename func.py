@@ -2,7 +2,7 @@ import os
 import numpy as np
 from collections import namedtuple
 from dateutil.relativedelta import relativedelta
-from global import *
+from global_var import *
 
 
 #create a function to select the date block according to the months needed, and also according to the stage
