@@ -1,5 +1,5 @@
 import os
-# os.chdir('/Users/Miya/Desktop/Master-Thesis')
+os.chdir('/Users/Miya/Desktop/Master-Thesis')
 import pandas as pd                                                                                
 import numpy as np
 from collections import namedtuple
